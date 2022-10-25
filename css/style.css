@@ -1,12 +1,12 @@
 body {
-	background-color: #0ea5af;
+	background-color: #0eaf7f;
 	font-family: "Raleway", sans-serif;
 }
 
 .container {
 	width: 350px;
 	height: 500px;
-	background-color: rgb(67, 67, 67);
+	background-color: rgb(238, 234, 234);
 	position: absolute;
 	left: 50%;
 	top: 50%;
@@ -20,7 +20,7 @@ h1 {
 	top: -55px;
 	width: 300px;
 	transform: translateX(-50%);
-	background-color: #ff631b;
+	background-color: #ce1bff;
 	color: #fff;
 	font-weight: 100;
 	border-top-left-radius: 20px;
@@ -31,7 +31,7 @@ h1 {
 }
 
 .wrapper {
-	padding: 20px;
+	padding: 15px;
 }
 
 input,
