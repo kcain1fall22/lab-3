@@ -1,5 +1,5 @@
 window.onload = () =>
-	{
+    {
 		document.querySelector('#calculate').onclick = calculateTip;
 	}
 
