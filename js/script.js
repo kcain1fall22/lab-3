@@ -15,9 +15,9 @@ function calculateTip() {
 	}
 
 	if (persons === '1')
-		document.querySelector('#each').style.display = 'none';
+		document.querySelector('#Per person').style.display = 'none';
 	else
-		document.querySelector('#each').style.display = 'block';
+		document.querySelector('#Per person').style.display = 'block';
 
 	let total = (amount * service) / persons;
 	total = total.toFixed(2);
